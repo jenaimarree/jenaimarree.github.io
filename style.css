@@ -1,0 +1,52 @@
+/* Fichier CSS à personnaliser */
+
+body {
+	background: url(https://tse2.mm.bing.net/th?id=OIP.dWC_Z1WC2FHDQN-JWNZFlAHaEK&pid=Api);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+a {
+	color : yellow
+}
+.pourmieuxvoir {
+	color : yellow
+}
+.geo {
+	color: #FAB632;
+	background-color: transparent;
+  }
+.anemo {
+	color: #72CCAA;
+	background-color: transparent;
+  }
+.dendro {
+	color: #A4CC3C;
+	background-color: transparent;
+  }
+.pyro {
+	color: #EC7C3C;
+	background-color: transparent;
+  }
+.hydro {
+	color: #4CC4F4;
+	background-color: transparent;
+  }
+.cryo {
+	color: #ADDCE6;
+	background-color: transparent;
+  }
+.electro {
+	color: #AC8CC3;
+	background-color: transparent;
+  }
+h1 {
+	text-align: center;
+	color: yellow;
+	border: white;
+}
+.night {
+	color: white;
+}
+.light {
+	color: black;
+}
